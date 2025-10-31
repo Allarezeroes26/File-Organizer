@@ -7,7 +7,7 @@ This project uses the built-in os and shutil modules to move files based on thei
 
 ## How It Works
 
-The program reads every file in the target folder.
-It checks the file’s extension and matches it to a category.
-It automatically creates the necessary subfolders (if not already existing).
-Files are then moved to their respective folders using shutil.move().
+1. The program reads every file in the target folder. <br>
+2. It checks the file’s extension and matches it to a category. <br>
+3. It automatically creates the necessary subfolders (if not already existing). <br>
+4. Files are then moved to their respective folders using shutil.move(). <br>
