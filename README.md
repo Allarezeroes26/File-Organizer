@@ -23,17 +23,27 @@ git clone https://github.com/Allarezeroes26/File-Organizer.git
 cd File-Organizer
 ```
 
-2. Run the program
+2. Install Requirements
+```
+pip install -r requirements.txt
+```
+
+3. Run the program
 ```
 python mainAuto.py
 ```
 
-3. Enter folder Path
+4. Enter folder Path
 
 ```
 Enter path folder to organize: C:\Users\User\Downloads
 ```
 
 ---
+
+## Screenshot
+
+C:\newxampp\htdocs\portfolioProjects\FOrganizer\screenshots\FileOrganizer.png
+
 
 
