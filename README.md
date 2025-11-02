@@ -43,7 +43,6 @@ Enter path folder to organize: C:\Users\User\Downloads
 
 ## Screenshot
 
-C:\newxampp\htdocs\portfolioProjects\FOrganizer\screenshots\FileOrganizer.png
-
+![File-Organizer](screenshots/FileOrganizer.png)
 
 
